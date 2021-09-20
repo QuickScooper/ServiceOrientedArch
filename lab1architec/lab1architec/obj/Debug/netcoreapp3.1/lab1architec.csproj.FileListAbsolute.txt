@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.exe
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.deps.json
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.runtimeconfig.json
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.dll
+C:\Users\Acer\source\repos\lab1architec\lab1architec\bin\Debug\netcoreapp3.1\lab1architec.pdb
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.AssemblyInfo.cs
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.dll
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.pdb
+C:\Users\Acer\source\repos\lab1architec\lab1architec\obj\Debug\netcoreapp3.1\lab1architec.genruntimeconfig.cache

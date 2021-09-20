@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Acer\source\repos\lab1architec\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\Acer\source\repos\lab1architec\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.genruntimeconfig.cache
